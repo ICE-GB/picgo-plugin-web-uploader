@@ -13,6 +13,7 @@ plugin for [PicGo](https://github.com/Molunerfinn/PicGo)
 - jsonPath: 图片URL所在返回值的JsonPath(eg:data.url)
 - customHeader: 自定义请求头 标准JSON(eg: {"key":"value"}
 - customBody: 自定义Body 标准JSON(eg: {"key":"value"})
+- imageUrlPrefix: 自定义图片URL前缀
 
 ### 服务端配置
 
